@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/uidesign/static/css/main.88878cdd.css",
-    "main.js": "/uidesign/static/js/main.b981e4ca.js",
+    "main.css": "/uidesign/static/css/main.55734629.css",
+    "main.js": "/uidesign/static/js/main.10b3f76c.js",
     "static/media/About.svg": "/uidesign/static/media/About.47304a282eacc093ef37b8c668e35627.svg",
     "static/media/home.png": "/uidesign/static/media/home.e9712818c05982e01a58.png",
     "static/media/g2.svg": "/uidesign/static/media/g2.681708d49f2ba6d1c36626d13efe2c1c.svg",
@@ -17,11 +17,11 @@
     "static/media/fb.svg": "/uidesign/static/media/fb.a00b47f2e97808213df8c78e187245a8.svg",
     "static/media/icone1.svg": "/uidesign/static/media/icone1.959f54d36cf87757dd498a36d9ebe494.svg",
     "static/media/hogakch.svg": "/uidesign/static/media/hogakch.30f7b50fda220c14e3008c7845c3d7b2.svg",
-    "main.88878cdd.css.map": "/uidesign/static/css/main.88878cdd.css.map",
-    "main.b981e4ca.js.map": "/uidesign/static/js/main.b981e4ca.js.map"
+    "main.55734629.css.map": "/uidesign/static/css/main.55734629.css.map",
+    "main.10b3f76c.js.map": "/uidesign/static/js/main.10b3f76c.js.map"
   },
   "entrypoints": [
-    "static/css/main.88878cdd.css",
-    "static/js/main.b981e4ca.js"
+    "static/css/main.55734629.css",
+    "static/js/main.10b3f76c.js"
   ]
 }
