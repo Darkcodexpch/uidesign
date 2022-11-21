@@ -16,16 +16,16 @@ function App() {
         <Router>
             <Header />
             <Switch>
-                <Route exact path="/about">
+                <Route exact path="/uidesign/about">
                     <About />
                 </Route>
-                <Route exact path="/construction">
+                <Route exact path="/uidesign/construction">
                     <Construction />
                 </Route>
-                <Route exact path="/contact">
+                <Route exact path="/uidesign/contact">
                     <Contact />
                 </Route>
-                <Route exact path="/">
+                <Route exact path="/uidesign">
                     <Home />
                 </Route>
             </Switch>

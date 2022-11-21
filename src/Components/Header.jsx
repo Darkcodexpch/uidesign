@@ -4,15 +4,15 @@ import { Link } from 'react-router-dom'
 
 export default function Header() {
     return (
-        <header className='min-h-[100vh] bg-[linear-gradient(0deg, rgba(0, 0, 0, 0.51), rgba(0, 0, 0, 0.51)), url(.png)]' style={{ backgroundImage: `url(${home})` }}>
+        <header className='min-h-[100vh] bg-[linear-gradient(0deg, rgba(0, 0, 0, 0.51), rgba(0, 0, 0, 0.51)), url(.png)] bg-fixed bg-cover' style={{ backgroundImage: `url(${home})` }}>
             <div className='main-container'>
                 <nav className='text-white flex  items-center py-6'>
                     <h1 className='text-[3.2rem] grow'>PAGERLAND</h1>
                     <ul className='flex space-x-6 text-[2.4rem]'>
-                        <Link to='/'><li>Home</li></Link>
-                        <Link to='/about'><li>About</li></Link>
-                        <Link to='/contact'><li>Contact</li></Link>
-                        <Link to='/construction'><li>Services</li></Link>
+                        <Link to='/uidesign'><li>Home</li></Link>
+                        <Link to='/uidesign/about'><li>About</li></Link>
+                        <Link to='/uidesign/contact'><li>Contact</li></Link>
+                        <Link to='/uidesign/construction'><li>Services</li></Link>
                     </ul>
                 </nav>
                 <div className='header-intro'>
