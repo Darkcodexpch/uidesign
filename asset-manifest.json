@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/uidesign/static/css/main.88878cdd.css",
+    "main.js": "/uidesign/static/js/main.b981e4ca.js",
+    "static/media/About.svg": "/uidesign/static/media/About.47304a282eacc093ef37b8c668e35627.svg",
+    "static/media/home.png": "/uidesign/static/media/home.e9712818c05982e01a58.png",
+    "static/media/g2.svg": "/uidesign/static/media/g2.681708d49f2ba6d1c36626d13efe2c1c.svg",
+    "static/media/g3.svg": "/uidesign/static/media/g3.2dd6281141eec49ae1eef3c0cf614e35.svg",
+    "static/media/g4.svg": "/uidesign/static/media/g4.29b655d3b119d2021597e988825c4b7f.svg",
+    "static/media/g1.svg": "/uidesign/static/media/g1.8b1ee9b8656fc65d44b5fd869dccd28c.svg",
+    "static/media/HandsMap.svg": "/uidesign/static/media/HandsMap.e99b14bac61aad57e7232010d0659615.svg",
+    "static/media/insta.svg": "/uidesign/static/media/insta.f9b7ad7f3df0fb97e1ab7f4193ed44c9.svg",
+    "static/media/linkdn.svg": "/uidesign/static/media/linkdn.0a17177997161c99a1897420823dd744.svg",
+    "index.html": "/uidesign/index.html",
+    "static/media/5.svg": "/uidesign/static/media/5.f534cc4e6b4f088166d0d51912005a9a.svg",
+    "static/media/6.svg": "/uidesign/static/media/6.fa2df6ded1b3b778af7689c2923a39a0.svg",
+    "static/media/fb.svg": "/uidesign/static/media/fb.a00b47f2e97808213df8c78e187245a8.svg",
+    "static/media/icone1.svg": "/uidesign/static/media/icone1.959f54d36cf87757dd498a36d9ebe494.svg",
+    "static/media/hogakch.svg": "/uidesign/static/media/hogakch.30f7b50fda220c14e3008c7845c3d7b2.svg",
+    "main.88878cdd.css.map": "/uidesign/static/css/main.88878cdd.css.map",
+    "main.b981e4ca.js.map": "/uidesign/static/js/main.b981e4ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88878cdd.css",
+    "static/js/main.b981e4ca.js"
+  ]
+}
